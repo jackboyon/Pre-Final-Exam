@@ -13,7 +13,7 @@ export default function Index() {
       // }}
       style={styles.container}
     >
-      <Text style={styles.txt}>Rasheed yule B. Montes BSIT-2B .</Text>
+      <Text style={styles.txt}>Abdanil Valles BSIT-2B .</Text>
     </View>
   );
 }
