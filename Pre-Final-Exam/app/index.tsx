@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet } from "react-native"
+import { StyleSheet, Text, View } from "react-native";
 
 export default function Index() {
   return (
@@ -13,7 +13,7 @@ export default function Index() {
       // }}
       style={styles.container}
     >
-      <Text style={styles.txt}>Rasheed yule B. Montes BSIT-2B .</Text>
+      <Text style={styles.txt}>Angel M. Banicod BSIT-2B </Text>
     </View>
   );
 }
