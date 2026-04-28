@@ -5,7 +5,7 @@ export default function Index() {
     <View
       style={styles.container}
     >
-      <Text style={styles.txt}>Rasheed yule B. Montes BSIT-2B .</Text>
+      <Text style={styles.txt}>Xhandrel R. De Vera, BSIT-2B .</Text>
     </View>
   );
 }
